@@ -70,7 +70,8 @@ Structured tracker with columns:
 ![Excel Output Screenshot](excel_output.png)
 
 ### 4. 🎬 Animated Demo (GIF)
-![Fixture Tracker Tutorial](Fixture tracker tutorial.gif)
+![Fixture Tracker Tutorial](Fixture%20tracker%20tutorial.gif)
+
 
 ### 5. 📹 Full Video Walkthrough
 [▶ Watch Tutorial](Fixture_Tracker_Tutorial.mp4)
