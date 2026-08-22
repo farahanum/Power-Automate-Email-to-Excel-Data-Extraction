@@ -71,7 +71,6 @@ Structured tracker with columns:
 
 [▶ Watch Full Tutorial](Fixture_Tracker_Tutorial.mp4)
 
-
 ---
 
 ## 🌟 Recruiter Highlights
