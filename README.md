@@ -60,16 +60,20 @@ Structured tracker with columns:
 ---
 ## 🎥 Workflow Demo
 
-### 1. 📧 Email Input
-![Sample Purchase Request Email](assets/email_input.png)
+### 1. 📧 Email Input (Unstructured Request)
+![Sample Purchase Request Email](email_input.png)
 
-### 2. ⚙️ Power Automate Flow
-![Power Automate Flow Screenshot](assets/flow_screenshot.png)
+### 2. ⚙️ Power Automate Flow (Automation Logic)
+![Power Automate Flow Screenshot](flow_screenshot.png)
 
-### 3. 📊 Excel Output
-![Excel Output Screenshot](assets/excel_output.png)
+### 3. 📊 Excel Output (Structured Log)
+![Excel Output Screenshot](excel_output.png)
 
-[▶ Watch Full Tutorial](Fixture_Tracker_Tutorial.mp4)
+### 4. 🎬 Animated Demo (GIF)
+![Fixture Tracker Tutorial](Fixture tracker tutorial.gif)
+
+### 5. 📹 Full Video Walkthrough
+[▶ Watch Tutorial](Fixture_Tracker_Tutorial.mp4)
 
 ---
 
