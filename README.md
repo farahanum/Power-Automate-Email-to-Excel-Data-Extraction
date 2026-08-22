@@ -74,7 +74,7 @@ Structured tracker with columns:
 
 
 ### 5. 📹 Full Video Walkthrough
-[▶ Watch Tutorial](Fixture_Tracker_Tutorial.mp4)
+[▶ Watch Tutorial](https://drive.google.com/file/d/1UTVJUilUYmUO_1PvWQaubIR4_6NiIO35/view?usp=sharing)
 
 ---
 
