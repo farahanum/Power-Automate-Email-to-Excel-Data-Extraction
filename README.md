@@ -58,13 +58,19 @@ Structured tracker with columns:
 - ⏱️ **Instant Processing** → seconds instead of hours/days  
 
 ---
-
 ## 🎥 Workflow Demo
-[▶ Watch Tutorial](Fixture_Tracker_Tutorial.mp4)  
-*(Replace with YouTube/Drive link if preferred)*  
 
-![Power Automate Flow Screenshot](flow_screenshot.png)  
-![Excel Output Screenshot](excel_output.png)
+### 1. 📧 Email Input
+![Sample Purchase Request Email](assets/email_input.png)
+
+### 2. ⚙️ Power Automate Flow
+![Power Automate Flow Screenshot](assets/flow_screenshot.png)
+
+### 3. 📊 Excel Output
+![Excel Output Screenshot](assets/excel_output.png)
+
+[▶ Watch Full Tutorial](Fixture_Tracker_Tutorial.mp4)
+
 
 ---
 
