@@ -64,7 +64,7 @@ Structured tracker with columns:
 *(Replace with YouTube/Drive link if preferred)*  
 
 ![Power Automate Flow Screenshot](flow_screenshot.png)  
-![Excel Output Screenshot]  
+![Excel Output Screenshot](excel_output.png)
 
 ---
 
