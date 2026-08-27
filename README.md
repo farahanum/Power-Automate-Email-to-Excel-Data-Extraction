@@ -74,8 +74,7 @@ Structured tracker with columns:
 
 
 ### 5. 📹 Full Video Walkthrough
-[▶ Watch Tutorial](https://drive.google.com/file/d/1UTVJUilUYmUO_1PvWQaubIR4_6NiIO35/view?usp=sharing)
-
+▶ [Watch 2‑min Power Automate Demo (Google Drive)](https://drive.google.com/file/d/1cLa2joqhBdodx-gc6o2ExKiO70NzUERm/view?usp=sharing)
 ---
 
 ## 🌟 Recruiter Highlights
